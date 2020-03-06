@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = "Noto+Serif|Merriweather|Share+Tech+Mono|Roboto+Mono"
+
+# Font families
+heading_font = "Roboto Mono"
+body_font = "Noto Serif"
+nav_font = "Share Tech Mono"
+mono_font = "Roboto Mono"
