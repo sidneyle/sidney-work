@@ -5,7 +5,7 @@ name = "Custom"
 google_fonts = "Noto+Serif|Merriweather|Share+Tech+Mono|Roboto+Mono"
 
 # Font families
-heading_font = "Roboto Mono"
-body_font = "Noto Serif"
+heading_font = "Share Tech Mono"
+body_font = "Roboto Mono"
 nav_font = "Share Tech Mono"
 mono_font = "Roboto Mono"
