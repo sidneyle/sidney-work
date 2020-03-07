@@ -21,9 +21,9 @@ organizations:
 bio: Data scientist with experience in machine learning in bioinformatics, NLP, and sociological research.
 
 interests:
-- Deep Learning, Machine Learning
-- Applied NLP
-- 
+- Machine Learning, with applications in social research
+- NLP
+- Bioinformatics
 
 education:
   courses:
