@@ -36,9 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-05-01"
   date_end = ""
-  description = "In collaboration with Facebook, the Center for Technology, Society & Policy at UC Berkeley hosted a data science competition aimed at building data-driven solutions for social good issues. Teams of undergraduates, graduates, and members of industry submitted proposals, four of which were selected for seed grants. My team's proposal, along with three others, were selected to compete for the final prize.
-
-Our project, which analyzed past affordable housing initiatives in California and built on existing research to create policy directives, was presented in front of a panel of judges, which included the Public Policy Research Manager at Facebook. The work that we produced was awarded second place."
+  description = "In collaboration with Facebook, the Center for Technology, Society & Policy at UC Berkeley hosted a data science competition aimed at building data-driven solutions for social good issues. Teams of undergraduates, graduates, and members of industry submitted proposals, four of which were selected for seed grants. My team's proposal, along with three others, were selected to compete for the final prize. Our project, which analyzed past affordable housing initiatives in California and built on existing research to create policy directives, was presented in front of a panel of judges, which included the Public Policy Research Manager at Facebook. The work that we produced was awarded second place."
   
 [[item]]
   organization = "Jacobs Institute for Design Innovation"
