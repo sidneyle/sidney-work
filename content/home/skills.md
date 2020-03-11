@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Machine/Deep learning"
   description = "Fluent"
   
@@ -40,7 +40,7 @@ subtitle = ""
   
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL and PostgreSQL"
   description = "Familiar"  
   
