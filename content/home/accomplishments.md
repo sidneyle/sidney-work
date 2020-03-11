@@ -34,18 +34,20 @@ date_format = "Jan 2006"
   title = "Data For Good Competition -- Runner up"
   url = "https://ctsp.berkeley.edu/data-for-good-projects/"
   certificate_url = ""
-  date_start = "2018-03-01"
+  date_start = "2018-05-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "In collaboration with Facebook, the Center for Technology, Society & Policy at UC Berkeley hosted a data science competition aimed at building data-driven solutions for social good issues. Teams of undergraduates, graduates, and members of industry submitted proposals, four of which were selected for seed grants. My team's proposal, along with three others, were selected to compete for the final prize.
+
+Our project, which analyzed past affordable housing initiatives in California and built on existing research to create policy directives, was presented in front of a panel of judges, which included the Public Policy Research Manager at Facebook. The work that we produced was awarded second place."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Jacobs Institute for Design Innovation"
+  organization_url = "https://jacobsinstitute.berkeley.edu/our-space/"
+  title = "Design Showcase"
   url = ""
   certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = "Selected by Professor Robert J. Full to present conceptual product design work based on biologically-derived processes. All student-designed projects in any class at the Jacobs Institute were considered. Only approximately 8 groups out of 100 were given spots in the design showcase. Attendees were faculty, members of industry, and members of the public."
 
 +++
