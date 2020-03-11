@@ -30,7 +30,6 @@ date_format = "Jan 2006"
   * writing technical briefs and methods, 
   * designing and conducting large-scale machine learning experiments, 
   * analyzing and discussing results in clinical contexts.
-
   """
 
 [[experience]]
