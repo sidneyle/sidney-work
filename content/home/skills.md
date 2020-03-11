@@ -18,18 +18,32 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Fluent"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Fluent"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fab"
+  name = "Machine/Deep learning"
+  description = "Fluent"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Fluent"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "database"
+  icon_pack = "fab"
+  name = "SQL and PostgreSQL"
+  description = "Familiar"  
+  
+
 
 +++
