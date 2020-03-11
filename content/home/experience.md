@@ -25,7 +25,11 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2020-02-29"
   description = """
-  Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of 
+  Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
+  * performing statistical consulting, 
+  * writing technical briefs and methods, 
+  * designing and conducting large-scale machine learning experiments, 
+  * analyzing and discussing results in clinical contexts.
 
   """
 
@@ -36,7 +40,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2018-02-01"
   date_end = "2018-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """ Worked with teams of sociologists and students to develop research and social good products. Lead project development and determined technical goals and timeline for Demo Watch, formerly Deciding Force. Developed machine-learning pipeline utilizing clustering and NLP to extract sociological insight from user-generated data."""
 
 [[experience]]
   title = "Data Consultant"
@@ -45,6 +49,6 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-08-01"
   date_end = "2018-05-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Built predictive models for food need in Alameda County in collaboration with the Alameda County Community Food Bank. Participated in the CTSP Data for Good competition; evaluated affordable housing policy initiatives and research in California and produced unique tools and indexes in order to recommend solutions for the affordable housing crisis."""
 
 +++
