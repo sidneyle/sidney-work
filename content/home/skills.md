@@ -44,6 +44,12 @@ subtitle = ""
   name = "SQL and PostgreSQL"
   description = "Familiar"  
   
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "NLP"
+  description = "Familiar"  
+  
 
 
 +++
