@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Machine/Deep learning"
+  name = "Machine/Deep Learning"
   description = "Fluent"
   
 [[feature]]
