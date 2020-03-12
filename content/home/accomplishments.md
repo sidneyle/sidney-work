@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Center for Technology, Society & Policy"
   organization_url = "https://ctsp.berkeley.edu/"
-  title = "Data For Good Competition -- Runner up"
+  title = "Data For Good Competition -- Runner Up"
   url = "https://ctsp.berkeley.edu/data-for-good-projects/"
   certificate_url = ""
   date_start = "2018-05-01"
