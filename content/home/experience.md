@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2020-02-29"
   description = """
-  Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
+   Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
   * performing statistical consulting, 
   * writing technical briefs and methods, 
   * designing and conducting large-scale machine learning experiments, 
@@ -36,18 +36,27 @@ date_format = "Jan 2006"
   title = "Research Associate"
   company = "Goodly Labs"
   company_url = "https://goodlylabs.org/"
-  location = "California"
+  location = "Berkeley, California"
   date_start = "2018-02-01"
   date_end = "2018-12-31"
   description = """ Worked with teams of sociologists and students to develop research and social good products. Lead project development and determined technical goals and timeline for Demo Watch, formerly Deciding Force. Developed machine-learning pipeline utilizing clustering and NLP to extract sociological insight from user-generated data."""
 
 [[experience]]
+  title = "Undergraduate Student Instructor (Data 8)"
+  company = "Department of Statistics at UC Berkeley"
+  company_url = "http://data8.org/"
+  location = "Berkeley, California"
+  date_start = "2018-08-01"
+  date_end = "2018-12-01"
+  description = """ Taught introductory data science as part an undergraduate student instructor in one the first, and fastest-growing, introductory data science university courses in the country. Role included responsibilities such as: developing course material; conducting discussion and lab sections, office hours, and exam prep sessions; and advising students on data science as an interdisciplinary field of study. """
+
+[[experience]]
   title = "Data Consultant"
   company = "Statistics Undergraduate Student Association at UC Berkeley"
   company_url = "https://saas.berkeley.edu/dataconsulting"
-  location = "California"
+  location = "Berkeley, California"
   date_start = "2017-08-01"
   date_end = "2018-05-01"
-  description = """Built predictive models for food need in Alameda County in collaboration with the Alameda County Community Food Bank. Participated in the CTSP Data for Good competition; evaluated affordable housing policy initiatives and research in California and produced unique tools and indexes in order to recommend solutions for the affordable housing crisis."""
+  description = """ Built predictive models for food need in Alameda County in collaboration with the Alameda County Community Food Bank. Participated in the CTSP Data for Good competition; evaluated affordable housing policy initiatives and research in California and produced unique tools and indexes in order to recommend solutions for the affordable housing crisis."""
 
 +++
