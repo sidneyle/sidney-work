@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2018-08-01"
   date_end = "2018-12-01"
-  description = """ Taught introductory data science as part an undergraduate student instructor in one the first, and fastest-growing, introductory data science university courses in the country. Role included responsibilities such as: developing course material; conducting discussion and lab sections, office hours, and exam prep sessions; and advising students on data science as an interdisciplinary field of study. """
+  description = """ Taught introductory data science as an undergraduate student instructor in one the first, and fastest-growing, introductory data science university courses in the country. Role included responsibilities such as: developing course material; conducting discussion and lab sections, office hours, and exam prep sessions; and advising students on data science as an interdisciplinary field of study. """
 
 [[experience]]
   title = "Data Consultant"
