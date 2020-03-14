@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://goodlylabs.org/"
   location = "Berkeley, California"
   date_start = "2018-02-01"
-  date_end = "2018-12-31"
+  date_end = "2018-01-01"
   description = """ Worked with teams of sociologists and students to develop research and social good products. Lead project development and determined technical goals and timeline for Demo Watch, formerly Deciding Force. Developed machine-learning pipeline utilizing clustering and NLP to extract sociological insight from user-generated data."""
 
 [[experience]]
