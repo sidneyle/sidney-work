@@ -50,6 +50,10 @@ subtitle = ""
   name = "NLP"
   description = "Familiar"  
   
-
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Tableau"
+  description = "Familiar"  
 
 +++
