@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Dascena, Inc."
   company_url = "https://www.dascena.com/"
   location = "Oakland, California"
-  date_start = "2019-01-01"
+  date_start = "2018-06-01"
   date_end = "2020-02-29"
   description = """
    Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
