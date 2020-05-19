@@ -19,6 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Workera, a deeplearning.ai company"
+  organization_url = "http://workera.ai/"
+  title = "Data Scientist Certification"
+  url = ""
+  certificate_url = "https://app.workera.ai/public/candidate/certificate?code=4GCKAIZX"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """Workera evaluates skills used by machine learning engineers, data scientists, and software engineers in their work. It is designed to assess a candidate’s ability to perform tasks such as data engineering, modeling, deployment, business analysis, and AI infrastructure rather than test for knowledge.
+
+  Sidney placed in the:
+  - **96th percentile** for Machine Learning
+  - **88th percentile** for Data Science
+  - **94th percentile** for Algorithmic Coding
+  - **60th percentile** for Deep Learning
+  - **98th percentile** for Mathematics"""
+
+[[item]]
   organization = "Society for Critical Care Medicine"
   organization_url = "https://www.sccm.org/Home"
   title = "Star Research Achievement Award"
