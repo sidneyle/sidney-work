@@ -22,15 +22,13 @@ date_format = "Jan 2006"
   company = "Dascena, Inc."
   company_url = "https://www.dascena.com/"
   location = "Oakland, California"
-  date_start = "2018-06-01"
+  date_start = "2019-01-01"
   date_end = "2020-02-29"
-  description = """
-   Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
+  description = """Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
   * performing statistical consulting, 
   * writing technical briefs and methods, 
   * designing and conducting large-scale machine learning experiments, 
-  * analyzing and discussing results in clinical contexts.
-  """
+  * analyzing and discussing results in clinical contexts."""
 
 [[experience]]
   title = "Research Associate"
