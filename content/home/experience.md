@@ -24,11 +24,20 @@ date_format = "Jan 2006"
   location = "Oakland, California"
   date_start = "2019-01-01"
   date_end = "2020-02-29"
-  description = """Developed numerous novel technologies that leveraged machine learning and deep learning in clinical contexts. Managed the technical aspects of grant and paper development, including: 
-  * performing statistical consulting, 
-  * writing technical briefs and methods, 
-  * designing and conducting large-scale machine learning experiments, 
-  * analyzing and discussing results in clinical contexts."""
+  description = """Designed and implemented experiments based on the analysis of predictive models, leveraging  machine- and deep-learning in Python alongside large-scale clinical EHR data, including unstructured text, to drive novel health research. Consulted on statistical matters across the company, particularly on clinical trial design and hypothesis testing, which included A/B testing. Built data processing and analysis functions into Python codebase. 
+
+Wrote and published technical papers to demonstrate novelty and significance of experimental results; developed technical aspects of grants to fund large scientific and engineering projects:
+* Worked cross-functionally to construct research plans and timelines
+* Managed and processed large-scale clinical EHR data for use in analysis using a Linux machine on the AWS cloud computing platform, MongoDB, and PostgreSQL
+* Generated analysis reports and visualizations using Matplotlib/Seaborn
+* Worked across teams, including engineering and sales, in order to communicate data needs and uses
+
+Applied techniques include: 
+* transfer and semi-supervised learning, 
+* deep learning (RNN, CNN, feature extraction, GAN) (implemented in Keras, Tensorflow, PyTorch) 
+* NLP (Doc2Vec) 
+* supervised learning (tree ensemble, generalized linear models, regression analysis, SVM)
+* unsupervised learning (clustering, dimensionality reduction)"""
 
 [[experience]]
   title = "Research Associate"
