@@ -43,7 +43,13 @@ subtitle = ""
   icon_pack = "fas"
   name = "SQL and PostgreSQL"
   description = "Familiar"  
-  
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "Spark and PySpark"
+  description = "Familiar"  
+
 [[feature]]
   icon = "language"
   icon_pack = "fas"
