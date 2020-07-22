@@ -15,15 +15,15 @@ role: Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Dascena, Inc.
-  url: ""
+  url: "https://www.dascena.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data scientist with experience in machine learning in bioinformatics, NLP, and sociological research.
+bio: Data scientist with experience in machine learning in clinical applications, NLP, and sociological research. Always ready to learn.
 
 interests:
-- Machine Learning, with applications in social research
-- NLP
-- Bioinformatics
+- Machine learning, with applications in the sociological space
+- NLP and its predictive capabilities
+- Social impact 
 
 education:
   courses:
